@@ -1,0 +1,5 @@
+Hello my name is Kazi Shadman Sakib.
+I am a CS student of 2nd Year 1st Semester.
+This text file is just to open it and see my python code works or not.
+So lets try. And count the lines and also read the line.
+Bye!! Bye!!
